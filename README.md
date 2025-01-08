@@ -17,3 +17,11 @@ So how do you avoid testing implementation details? Using the right tools is a g
     Turn that list of instructions into an automated test.
     
 Credit: https://kentcdodds.com/blog/testing-implementation-details
+
+### Additional Material for RTL
+https://academind.com/tutorials/testing-react-apps
+
+To decide: what to test, how to test.
+
+Avoiding useless tests: don't ever use getByText - as the projects you are going to be working with, you'll most probably change the text.
+Rather, use either by label or role. 
