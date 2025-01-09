@@ -1,5 +1,11 @@
-# Vitetest project config / template
+# (OLD) Vitetest project config / template (NEW) Frontend React template
 
+What's included:
+(originally) RTL, Jest, Vite, React 
+(now) This template is extended to support propTypes, and will also be extended to support 
+React Router in due time. 
+
+For Tests:
 Guide:
 https://vitest.dev/guide/
 
@@ -23,5 +29,5 @@ https://academind.com/tutorials/testing-react-apps
 
 To decide: what to test, how to test.
 
-Avoiding useless tests: don't ever use getByText - as the projects you are going to be working with, you'll most probably change the text.
-Rather, use either by label or role. 
+Avoiding useless tests: don't ever use getByText - as the projects you are going to be working 
+with, you'll most probably change the text. Rather, use either by label or role.
