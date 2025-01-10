@@ -23,5 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-# doesn't make sense to not
-package-lock.json
+# Don't add package.lock.json. According to Wes Bos, we need it for issue tracing
