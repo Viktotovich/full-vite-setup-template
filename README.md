@@ -56,3 +56,4 @@ https://www.theodinproject.com/lessons/node-path-react-new-react-router
 
 We might have to get React Helmet or the likes for good SEO.
 However, I love the idea of upgrading to NextJS in due time.
+g

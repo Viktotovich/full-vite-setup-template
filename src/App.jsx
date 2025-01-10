@@ -5,6 +5,8 @@ function App() {
   return (
     <>
       <nav>
+        <h1>Test Route</h1>
+        <hr />
         <ul>
           <li>
             <Link to="test">Take me to Test!</Link>
